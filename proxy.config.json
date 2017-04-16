@@ -1,0 +1,7 @@
+{
+  "/": {
+    "target": "https://www.pttdata.com",
+    "secure": false,
+    "changeOrigin": false
+  }
+}
